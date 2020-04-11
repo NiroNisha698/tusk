@@ -6,6 +6,9 @@ Pasta
 Kottu
 Fried Rice
 
+Beans
+Pizza
+
 
 
 
@@ -14,5 +17,9 @@ Fried Rice
 
 thank you :)
 
+Done my changes
+
+
 
 Final Copy
+
